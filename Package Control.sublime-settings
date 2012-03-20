@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1330700222,
+	"auto_upgrade_last_run": 1332265345,
 	"installed_packages":
 	[
 		"CoffeeScript",
@@ -11,6 +11,8 @@
 		"Rake",
 		"RSpec",
 		"SCSS",
+		"SublimeLinter",
+		"SublimeTODO",
 		"Theme - Soda"
 	]
 }
