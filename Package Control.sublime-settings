@@ -1,8 +1,10 @@
 {
-	"auto_upgrade_last_run": 1343832158,
+	"auto_upgrade_last_run": 1348142488,
 	"installed_packages":
 	[
+		"Abacus",
 		"CoffeeScript",
+		"DetectSyntax",
 		"Gist",
 		"Git",
 		"HTML5",
@@ -13,6 +15,7 @@
 		"SCSS",
 		"SublimeTODO",
 		"Theme - Soda",
-		"TomDoc"
+		"TomDoc",
+		"Tomorrow Color Schemes"
 	]
 }
