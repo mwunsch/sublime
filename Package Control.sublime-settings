@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1348142488,
+	"auto_upgrade_last_run": 1351957777,
 	"installed_packages":
 	[
 		"Abacus",
@@ -7,9 +7,11 @@
 		"DetectSyntax",
 		"Gist",
 		"Git",
+		"Handlebars",
 		"HTML5",
 		"LESS",
 		"Package Control",
+		"Play 2.0",
 		"Rake",
 		"RSpec",
 		"SCSS",
