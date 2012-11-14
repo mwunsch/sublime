@@ -1,12 +1,29 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow.tmTheme",
 	"draw_white_space": "all",
 	"file_exclude_patterns":
 	[
 		".DS_Store",
 		"*.class",
-		"*.rbc"
+		"*.rbc",
+		"*.o",
+		"*.a",
+		".gitmodules"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".svn",
+		".idea",
+		".idea_modules",
+		".bundle",
+		"lib_managed",
+		"log",
+		"logs",
+		"node_modules",
+		"target",
+		"tmp"
 	],
 	"font_face": "Consolas",
 	"font_size": 14.0,
