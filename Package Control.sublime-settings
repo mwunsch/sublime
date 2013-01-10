@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1351957777,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Abacus",
@@ -14,6 +14,7 @@
 		"Play 2.0",
 		"Rake",
 		"RSpec",
+		"RubyTest",
 		"SCSS",
 		"SublimeTODO",
 		"Theme - Soda",
